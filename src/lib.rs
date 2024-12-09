@@ -83,7 +83,7 @@ pub enum GDCMTransferSyntax {
     RLELossless,
     #[strum(serialize = "1.2.840.10008.1.2.4.100")]
     MPEG2MainProfile,
-    ImplicitVRBigEndianACRNEMA, // Unkown
+    ImplicitVRBigEndianACRNEMA, // Unknown
     WeirdPapryus,               // Unknown
     CT_private_ELE,             // Unknown
     #[strum(serialize = "1.2.840.10008.1.2.4.95")]

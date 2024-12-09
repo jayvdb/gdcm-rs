@@ -6,7 +6,7 @@ homepage = "https://github.com/pevers/gdcm-rs"
 repository = "https://github.com/pevers/gdcm-rs"
 readme = "README.md"
 keywords = ["dicom", "gdcm", "pixel", "encoding"]
-license = "MIT"
+license = "MIT AND BSD-2-Clause AND BSD-3-Clause AND Apache-2.0 AND OFFIS"
 authors = ["Peter Evers <pevers90@gmail.com>"]
 edition = "2018"
 
